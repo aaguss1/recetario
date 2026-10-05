@@ -1,7 +1,5 @@
-  Flan casero con dulce de leche.
-  Panqueques con dulce de leche.
-    Flan casero con dulce de leche.
-  Arroz con leche.
+ Flan casero con dulce de leche.
+ Arroz con leche.
   
   
   
